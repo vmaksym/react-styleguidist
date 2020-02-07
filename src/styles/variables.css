@@ -1,0 +1,26 @@
+:root {
+    --vertical-scale: 1.2;
+
+    --small-font-size: 12px;
+    --base-font-size: 14px;
+    --large-font-size: 16px;
+    --larger-font-size: 18px;
+    --mega-font-size: 24px;
+
+    --onboarding-header-font-size: 30px;
+
+    --base-font-family: 'Open Sans', helvetica, sans-serif;
+
+    --spacing-root: 10px;
+    --spacing-half: calc(var(--spacing-root) / 2);
+    --spacing-double: calc(var(--spacing-root) * 2);
+
+    --sidebar-width: 375px;
+    --modal-width: 496px;
+    --account-form-width: 395px;
+    --sidebar-collapse-animation-length: 200ms;
+
+    --primary-button-height: 56px;
+
+    --control-large: 100%;
+}
